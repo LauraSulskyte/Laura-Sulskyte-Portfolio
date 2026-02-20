@@ -21,7 +21,8 @@ Hi there! I'm **Laura Sulskyte**, a passionate Digital Marketing student with ma
 - Achieved **89% accuracy** with optimized random forest
 - Deployed using Streamlit for demo purposes  
 [🔗 View Project](https://github.com/LauraSulskyte/EGZO-Project)
-images/Gannt_Isamus_Grafikas.png
+![LinkedIn Dashboard](images/Gannt_Isamus_Grafikas.png)
+
 ---
 
 
