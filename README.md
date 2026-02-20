@@ -44,4 +44,4 @@ Hi there! I'm **Laura Sulskyte**, a passionate Digital Marketing student with ma
 
 ---
 
-> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+>  "Marketing is no longer about the stuff that you make, but about the stories you tell." — Seth Godin
