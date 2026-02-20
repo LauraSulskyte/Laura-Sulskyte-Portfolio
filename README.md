@@ -24,7 +24,23 @@ Hi there! I'm **Laura Sulskyte**, a passionate Digital Marketing student with ma
 ![LinkedIn Dashboard](images/Gannt_Isamus_Grafikas.png)
 
 ---
+## 💼 Professional Experience
 
+**[Company Name], [Location] — [Position]**  
+*Time Period*
+
+- Automated classification of healthcare documents using **Python, Tesseract, and Regex**, reducing processing time from 50 mins to 2 mins
+- Built BI dashboards in Looker to automate monthly insurance reports, saving ~20 hours per month
+- Developed dynamic pricing insights using **time series analysis with BQML**, contributing to a **2% YoY revenue growth**
+- Analyzed insurance claims using statistical tests (Chi-square, T-distribution), and cleaned data with Pandas
+- Collaborated closely with engineering and business teams using **Agile/Scrum** methodology
+
+---
+
+## 🎓 Education
+
+- Bachelor's in Economics and Statistics | [University Name] | June 2016 – Jan 2020 | GPA: 3.7
+- High School., maths | School Name | June 2012 – Jan 2015 | Score: 99%
 
 ---
 
