@@ -54,7 +54,7 @@ Hi there! I'm **Laura Sulskyte**, a passionate Digital Marketing student with ma
 
 ## 📬 Let's Connect!
 
-- 📧 Email:  llaurasulskyte@gmail.com 
+- 📧 Email:  laurasulskyte97@gmail.com 
 - 💼 [LinkedIn]()  
 - 📂 [Portfolio Website]()  
 - 🐙 [GitHub](https://github.com/priyamehta)
