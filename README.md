@@ -1,16 +1,49 @@
-# Hi, I’m Laura 👋
+# Laura Sulskyte — Digital Marketing Portfolio
 
-Digital Marketing student (1.5 years) with management experience and a strong focus on **customer insights, CRM, and performance fundamentals**.
+Hi! I’m Laura — a Digital Marketing student (1.5 years) with management experience in customer-facing teams.
+I’m interested in **performance marketing, brand storytelling, CRM, and analytics**.
 
-- 📍 Klaipėda, Lithuania  
-- 🎯 Looking for a Marketing Internship (Performance / Brand / Growth)  
-- 🧩 Strengths: structured thinking, ownership, clear communication, empathy with customers  
-- 🛠️ Tools: Google Ads (basics), HubSpot (basics), Python (Pandas, data viz), Excel/Sheets  
-- 📫 Contact: your.email@gmail.com | LinkedIn: https://linkedin.com/in/your-link
+**Links**
+- Portfolio: https://laurasulskyte.github.io/Laura-Sulskyte-Portfolio/
+- GitHub: https://github.com/LauraSulskyte
+- LinkedIn: https://www.linkedin.com/in/laura-sulskyte/
+- Email: laurasulskyte97@gmail.com
 
-## Featured work
-- **Digital Marketing Portfolio (GitHub Pages)**: https://laurasulskyte.github.io/Laura-Sulskyte-Portfolio/
-- **EGZOTIC SOS (Strategy + KPIs + Budget + Project plan)**: https://github.com/LauraSulskyte/EGZO-Project
+---
 
-## What I enjoy
-Photography, travel, books, music, sports — I like learning patterns and turning them into clear stories.
+## Skills
+- **Performance fundamentals:** Google Ads (basics), KPI tracking, testing mindset  
+- **CRM & customer insights:** feedback analysis, retention thinking, process improvement  
+- **Analytics:** Excel/Google Sheets, Python (Pandas, data visualization)  
+- **Leadership:** training, operations, cross-team collaboration  
+
+---
+
+## Featured project
+### EGZOTIC SOS — Strategy + KPIs + Budget + Project plan (Python)
+**What I did:** built a clear project plan (Gantt), defined KPIs and budget allocation, and created visuals with Python (Matplotlib).  
+Repo: https://github.com/LauraSulskyte/EGZO-Project
+
+---
+
+## Professional experience (highlights)
+### Vitrina Pro — Lead Manager (Mar 2022 – Present)
+- Implemented a training program that improved sales team performance by 30%
+- Introduced a CRM system, increasing team productivity by 25%
+
+### Planas Chuliganas (ESO) — Call Center Manager (2020 – 2021)
+- Improved customer satisfaction by 15% by addressing key pain points
+- Increased new hire productivity by 20% through structured training
+
+### Martina (Makeup brand) — Customer Care Manager (2020)
+- Increased customer retention by 25% through customer experience improvements
+
+---
+
+## Education
+Marketing Studies (1.5 years) — Vilniaus Verslo kolegija, Vilnius, Lithuania | [2024 – present]
+
+## Certifications / Courses
+- Google Ads — Google Ads Display, 2026
+- HubSpot — Email marketing, 2026
+- Hubspot — Digital Marketing, 2026
