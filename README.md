@@ -6,7 +6,7 @@ I’m interested in **performance marketing, brand storytelling, CRM, and analyt
 **Links**
 * 🐙 **GitHub:** [github.com/LauraSulskyte](https://github.com/LauraSulskyte)
 * 💼 **LinkedIn:** [linkedin.com/in/laura-sulskyte](https://www.linkedin.com/in/laura-sulskyte/)
-- 📧 Email: laurasulskyte97@gmail.com
+* 📧 **Email:** laurasulskyte97@gmail.com
 
 ---
 
