@@ -47,3 +47,6 @@ Marketing Studies (1.5 years) — Vilniaus Verslo kolegija, Vilnius, Lithuania |
 - Google Ads — Google Ads Display, 2026
 - HubSpot — Email marketing, 2026
 - Hubspot — Digital Marketing, 2026
+- Meta Blueprint — Build an online business presence with Instagram (Course completed), 2026
+-	Meta Blueprint — Certified as digital marketing associate (Course completed), 2026 
+
