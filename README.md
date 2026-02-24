@@ -43,7 +43,7 @@ I’m interested in **performance marketing, brand storytelling, CRM, and analyt
 ## 🎓 Education
 Marketing Studies (1.5 years) — Vilniaus Verslo kolegija, Vilnius, Lithuania | [2024 – present]
 
-## 🏅 Certifications / Courses
+## 🏅 Certifications / Learning
 - Google Ads — Google Ads Display, 2026
 - HubSpot — Email marketing, 2026
 - Hubspot — Digital Marketing, 2026
