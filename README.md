@@ -4,9 +4,8 @@ Hi! I’m Laura — a Digital Marketing student (1.5 years) with management expe
 I’m interested in **performance marketing, brand storytelling, CRM, and analytics**.
 
 **Links**
-- 📂 Portfolio: https://laurasulskyte.github.io/Laura-Sulskyte-Portfolio/
-- 🐙 GitHub: https://github.com/LauraSulskyte
-- 💼 LinkedIn: https://www.linkedin.com/in/laura-sulskyte/
+* 🐙 **GitHub:** [github.com/LauraSulskyte](https://github.com/LauraSulskyte)
+* 💼 **LinkedIn:** [linkedin.com/in/laura-sulskyte](https://www.linkedin.com/in/laura-sulskyte/)
 - 📧 Email: laurasulskyte97@gmail.com
 
 ---
