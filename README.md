@@ -33,7 +33,7 @@ I’m interested in **performance marketing, brand storytelling, CRM, and analyt
 
 ### Planas Chuliganas (ESO) — Call Center Manager (2020 – 2021)
 - Improved customer satisfaction by 15% by addressing key pain points
-- Increased new hire productivity by 20% through structured training
+- Standardized new hire onboarding with structured training modules, ensuring a smoother and faster transition into the role.
 
 ### Martina (Makeup brand) — Customer Care Manager (2020)
 - Increased customer retention by 25% through customer experience improvements
