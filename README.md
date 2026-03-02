@@ -20,7 +20,7 @@ I’m interested in **performance marketing, brand storytelling, CRM, and analyt
 
 ## 📁 Featured project
 ### 📊 EGZOTIC SOS — Strategy + KPIs + Budget + Project plan (Python)
-**Overview:** built a clear project plan (Gantt), defined KPIs and budget allocation, and created visuals with Python (Matplotlib).  
+**Overview:** Built a clear project plan (Gantt), defined KPIs and budget allocation, and created visuals with Python (Matplotlib).  
 **Repo:** [EGZO-Project](https://github.com/LauraSulskyte/EGZO-Project)
 ![Mano Gantt grafikas](https://raw.githubusercontent.com/LauraSulskyte/EGZO-Project/main/Gantt%20grafikas.png)
 
